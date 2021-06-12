@@ -1,0 +1,23 @@
+{
+  "name": "apirestprod",
+  "version": "1.0.0",
+  "description": "criação de uma api rest para consumo no Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CesarSNg/apirestprod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CesarSNg/apirestprod/issues"
+  },
+  "homepage": "https://github.com/CesarSNg/apirestprod#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
