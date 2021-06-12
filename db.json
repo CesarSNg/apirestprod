@@ -1,0 +1,20 @@
+{
+    "tbprodutos": [
+        {
+            "id": 1,
+            "descricao": "Tenis",
+            "qtde": "3",
+            "valorunit": "500",
+            "dataentrada": "14052021",
+            "imagemprod": "123"
+        },
+        {
+            "id": 2,
+            "descricao": "Calsa",
+            "qtde": "5",
+            "valorunit": "100",
+            "dataentrada": "14052021",
+            "imagemprod": "123"
+        }
+    ]
+}
